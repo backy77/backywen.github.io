@@ -1,6 +1,6 @@
-name: 
-author: 
-url: 
+name: 大美女
+author: backy
+url: https://backy77.github.io/backywen.github.io/
 baseurl: 
 resume_site: 
 description: 
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 853f916c0c2403ac45a0
+    clientSecret : 2661a849dfe79c9b066c1fda3fa072aa9b6ddacd
+    repo : backy_comments
+    owner : backy77
+    admin : [backy77]
